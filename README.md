@@ -40,7 +40,7 @@
         and reference for commonly asked algorithmic problems.
       </p>
 
-      <h3>🎯 Objectives</h3>
+  <h3>🎯 Objectives</h3>
       <ul>
         <li>Develop consistent daily coding habits</li>
         <li>Strengthen DSA fundamentals</li>
@@ -106,7 +106,28 @@
     </td>
   </tr>
 </table>
+ 🧑‍💻𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=c" width="48"/><br/>
+      <b>C</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+      <b>C++</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=java" width="48"/><br/>
+      <b>Java</b>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <b>Python</b>
+    </td>
+  </tr>
+</table>
 <!-- FOLDER STRUCTURE TABLE -->
 <table>
   <tr>
@@ -170,19 +191,19 @@ cd leetcode-50-days
       <strong>Run Python:</strong>
       <pre>python filename.py</pre>
 
-      <strong>Run Java:</strong>
+   <strong>Run Java:</strong>
 <pre>
 javac FileName.java
 java FileName
 </pre>
 
-      <strong>Run C++:</strong>
+  <strong>Run C++:</strong>
 <pre>
 g++ FileName.cpp -o solution
 ./solution
 </pre>
 
-      <em>Note:</em> Solutions follow LeetCode’s online judge format.
+  <em>Note:</em> Solutions follow LeetCode’s online judge format.
     </td>
   </tr>
 </table>
