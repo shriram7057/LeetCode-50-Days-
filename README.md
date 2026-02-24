@@ -4,6 +4,7 @@
     <td class="center">
       <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="160">
       <img src="https://raw.githubusercontent.com/shriram7057/shriram7057/main/leetcode_50days.gif" width="160">
+            <img src="https://github.com/shriram7057/shriram7057/blob/main/Lc%2050%20Days%20Badge%202026.gif?raw=true" width="160">
       <h1>LeetCode 50 Days Challenge 🚀</h1>
       <p>
         A structured daily coding challenge featuring <strong>50+ LeetCode problems</strong>,
